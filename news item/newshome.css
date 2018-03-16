@@ -1,0 +1,26 @@
+.top{
+  background-color:black;
+  font-family:arial;
+}
+h1{
+  text-align:center;
+  color:white;
+  font-size:400%;
+}
+h2{
+  color:black;
+  font-size:300%;
+}
+body{
+  background-image:url("download.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+a{
+  color:black;
+  text-decoration:none;
+}
+p{
+  color:black;
+  font-size:200%;
+}
